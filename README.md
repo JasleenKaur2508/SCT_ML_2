@@ -61,7 +61,7 @@ The goal is to identify groups of mall customers with similar characteristics an
    ```bash
    git clone <your-repository-url>
    cd SCT_ML_2
-```
+   ```
 
 **Important**: Make sure to run the script from within the SCT_ML_2 directory so it can find the Mall_Customers.csv file.
 
@@ -80,13 +80,13 @@ The goal is to identify groups of mall customers with similar characteristics an
 - **Segments Identified**: Different customer profiles based on age, income, and spending patterns
 
 ### **Cluster Analysis:**
-```
+   ```
 Segment 0: Budget-Conscious Customers → Older, low income, minimal spending
 Segment 1: Moderate Customers → Young professionals, good income, moderate spending
 Segment 2: High Spenders → Young, lower income but high spending tendency
 Segment 3: Stable Customers → Mature, moderate income & spending
-
-```
+ 
+   ```
 
 ---
 
